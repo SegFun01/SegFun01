@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Carlos Camacho alias @SegFun01
-- 👀 I’m interested in Civil Engineering and Hydraulics: subjects like:
+- 👀 I’m interested in Civil Engineering and Hydraulics specially in subjects like:
    - Hydraulic mathematic modelling,
    - GIS,
    - SCADA   
